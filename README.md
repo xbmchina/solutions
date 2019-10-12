@@ -1,1 +1,1 @@
-1、[LRU原理和实践](https://mp.weixin.qq.com/s/dy1scxjazo6Rioso1YKk4w)
+1、[LRU原理和实践](https://github.com/xbmchina/solutions/tree/master/LRU%E5%8E%9F%E7%90%86%E5%92%8C%E5%AE%9E%E8%B7%B5)

@@ -1,1 +1,1 @@
-# solutions
+1、[LRU原理和实践](https://mp.weixin.qq.com/s/dy1scxjazo6Rioso1YKk4w)

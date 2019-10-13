@@ -3,8 +3,9 @@
 
 2.[分布式ID](https://github.com/xbmchina/solutions/tree/master/%E5%88%86%E5%B8%83%E5%BC%8FID)
 
-2.[分布式锁](https://github.com/xbmchina/solutions/tree/master/分布式锁)
+3.[分布式锁](https://github.com/xbmchina/solutions/tree/master/分布式锁)
 
+4.[分布式事务](https://github.com/xbmchina/solutions/tree/master/分布式事务)
 
 **以上所有文章来自于公众号【爱编码】**
 

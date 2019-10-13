@@ -7,6 +7,8 @@
 
 4.[分布式事务](https://github.com/xbmchina/solutions/tree/master/分布式事务)
 
+5.[一致性Hash](https://github.com/xbmchina/solutions/tree/master/一致性Hash)
+
 **更多文章可关注公众号【爱编码】**
 
 ![](https://upload-images.jianshu.io/upload_images/13150128-132fe0843e27a172.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

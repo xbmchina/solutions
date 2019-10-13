@@ -1,4 +1,5 @@
 转自：[分布式事务看这一篇就够了](https://www.cnblogs.com/cblogs/p/9432652.html)
+更优秀的文章：[GTS来了！阿里微服务架构下的分布式事务解决方案](https://mp.weixin.qq.com/s/bUtu2nTs0bybnTvk-iLt6Q)
 
 # 前言
 

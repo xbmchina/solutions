@@ -11,6 +11,8 @@
 
 6.[如何设计一个良好的API](https://github.com/xbmchina/solutions/tree/master/如何设计一个良好的API)
 
+7.[限流策略](https://github.com/xbmchina/solutions/tree/master/限流策略)
+
 **更多文章可关注公众号【爱编码】**
 
 ![](https://upload-images.jianshu.io/upload_images/13150128-132fe0843e27a172.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
